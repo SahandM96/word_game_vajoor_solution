@@ -1,0 +1,4 @@
+diffrent between cubit and bloc
+-- cubit is best for functions 
+-- bloc is best for stream of data as functions
+-- --- --- --- 
