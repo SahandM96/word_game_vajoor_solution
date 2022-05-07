@@ -1,0 +1,19 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+*.py[cod]
+*.egg
+build
+htmlcov
+
+.ipynb_checkpoints/
+.vscode/
+Untitled\ Folder/
+flutter_app/
+web/
+word_game_app/
+not.txt
+dirty_words.txt
+unclean.txt
